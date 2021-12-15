@@ -12,7 +12,7 @@ var build set 0:1
      a == 1, b == 2 
        make as same 
        } 
-       create modalaty 1 output 
+       create modality 1 output 
      {
  
 asa;
